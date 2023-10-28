@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Love Note</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Hi mameehh</h1>
+        <p>I wanted to create something special just for you...</p>
+        <p>Because you mean the world to me, and I love you more than words can express.</p>
+        <p>Happy [special occasion or any day]!</p>
+        <p>With all my love,<br>Your Name</p>
+    </div>
+</body>
+</html>
+/* style.css */
+body {
+    background-image: url('flower-background.jpg'); /* Replace with your floral background image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.container {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20% auto;
+    width: 60%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+    font-size: 2em;
+    color: #333;
+}
+
+p {
+    font-size: 1.2em;
+    color: #444;
+}
