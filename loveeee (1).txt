@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Love Note</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Hi mameehh</h1>
+        <p>I wanted to create something special just for you...</p>
+        <p>Blaaah blaaa gwapa kayka mwuaamwuaa</p>
+        <p>I LOVEE YOUU!</p>
+        <p>With all my love,<br>Dadeehh</p>
+    </div>
+</body>
+</html>
+/* style.css */
+body {
+    background-image: http://davidesandona.it/2014/08/css-transform-skew-math-unveiled/
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.container {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20% auto;
+    width: 60%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+    font-size: 2em;
+    color: #333;
+}
+
+p {
+    font-size: 1.2em;
+    color: #444;
+}
